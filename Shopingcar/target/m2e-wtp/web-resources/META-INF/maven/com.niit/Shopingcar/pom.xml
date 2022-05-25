@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Shopingcar Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  <properties><spring-version>4.3.6.RELEASE</spring-version></properties>
+  <properties><spring-version>5.2.22.RELEASE</spring-version></properties>
   <dependencies>
   <dependency>
     <groupId>commons-logging</groupId>
